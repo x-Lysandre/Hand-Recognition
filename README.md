@@ -17,3 +17,13 @@ The Hand Detection Project is designed to detect and locate hands in real-time f
 - MediaPipe
 - NumPy
 
+## Hand Detection Examples
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <img src="Assets/screenshot_1.png" alt="Hand Detection Example 1" style="width: 23%;"/>
+  <img src="Assets/screenshot_2.png" alt="Hand Detection Example 2" style="width: 23%;"/>
+  <img src="Assets/screenshot_3.png" alt="Hand Detection Example 3" style="width: 23%;"/>
+  <img src="Assets/screenshot_4.png" alt="Hand Detection Example 4" style="width: 23%;"/>
+
+</div>
